@@ -26,4 +26,8 @@ print(abs(-20))
 
 # Casses Custom TYpes
 # Sepecialized Data Types
-# None#
+# None
+# complex
+#bin
+print(bin(5))
+print(int('0b101',2))
